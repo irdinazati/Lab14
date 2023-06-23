@@ -11,12 +11,12 @@ import java.util.Scanner;
 import Part3.model.Customer;
 
 /**
- * Lab Week 14 Part 3 Exercise 5
+ * Lab 14 Part 3 Exercise 5
  * This is a TCP client class that sends several customer names to the server.
  * The application will also receive a customer information based on
  * customer's name sent from the server.
  * 
- * @author Ng Wei Hen
+ * @author Nur Irdina Izzati
  *
  */
 public class TCPCustomerClientApp {

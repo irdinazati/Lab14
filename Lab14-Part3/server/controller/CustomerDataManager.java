@@ -39,11 +39,11 @@ public class CustomerDataManager {
 		// 10 Samples data
 		int customerId[] = {1001, 1002, 1003, 1004, 1005, 
 							1006, 1007, 1008, 1009, 1010};
-		String names[] = {"Lau Chi Chien", "Lim Zhao Hong", 
-						  "Macaurel Noel", "Hafiz suhaizal",
-						  "Teoh Jia Qi", "Syafiqah Rozi",
-						  "Syafiqah Nasir", "Irdina Izzati",
-						  "Shaufy Yana", "Hanis Sorhana"};
+		String names[] = {"Muhammad Izzat", "Shaufy Yana", 
+						  "Hanis Sorhana", "Irdina Izzati",
+						  "Arif Ramli", "Siti Balqis",
+						  "Siti Aishah", "Nurul Shuhaidah",
+						  "Nur Syamira", "Aqilah Masyitah"};
 		
 		// Adding data into the list
 		for(int index = 0; index < 10; index++)
