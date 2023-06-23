@@ -24,9 +24,9 @@ public class TCPSummationClientApp {
 		
 		
 		// Sample of data
-		int number1 = 1712;
-		int number2 = 3;
-		int number3 = 52;
+		int number1 = 04;
+		int number2 = 07;
+		int number3 = 2002;
 		
 		try {
 			

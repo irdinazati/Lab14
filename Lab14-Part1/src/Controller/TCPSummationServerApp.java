@@ -10,7 +10,7 @@ import java.net.Socket;
 
 /**
  * 
- * @author irdina izzati
+ * @author nur irdina izzati
  */
 public class TCPSummationServerApp {
 
